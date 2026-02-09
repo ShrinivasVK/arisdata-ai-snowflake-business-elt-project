@@ -96,7 +96,7 @@ At the same time, you will understand **why each piece exists**.
 1. Clone or fork this repository
 2. Create a personal branch using:
 ```bash
-   feature/<your-name>
+   feature/your-name
 ```
 
 ## IMPORTANT INSTRUCTIONS FOR PROJECT SUBMISSION:
@@ -275,12 +275,12 @@ The business needs to share analytics data with partners safely and at scale.
 
 You will be evaluated on:
 
-| Area | Focus |
-|--||
-| Business understanding | Why decisions were made |
-| Fundamentals | Raw → Transform → Analytics |
-| Governance awareness | Access, security, sharing |
-| Clarity of explanation | Simple, clear reasoning |
+| Area                   	| Focus                       	|
+|------------------------	|-----------------------------	|
+| Business Understanding 	| Why decisions were made     	|
+| Fundamentals           	| Raw → Transform → Analytics 	|
+| Governance Awareness   	| Access, security, sharing   	|
+| Clarity of Explanation 	| Simple, clear reasoning     	|
 
 This is **not an exam**.
 There are **no right or wrong answers**.

@@ -141,7 +141,7 @@ The business does not trust the platform because **access and ownership are uncl
 - Can you explain why access separation matters?
 - Do your roles reflect business responsibilities?
 
-### Quiz / Reflection (Mandatory)
+### Quiz
 
 👉 [https://forms.office.com/r/L3MJje7egr](https://forms.office.com/r/L3MJje7egr)
 
@@ -172,7 +172,7 @@ The business cannot trace where data came from or recover from failures.
 - Do you understand why raw data should remain untouched?
 - Can you explain auditability in simple terms?
 
-### Quiz / Reflection (Mandatory)
+### Quiz
 
 👉 [https://forms.office.com/r/n1XE52bC4X](https://forms.office.com/r/n1XE52bC4X)
 
@@ -203,7 +203,7 @@ Teams calculate metrics differently and do not trust each other’s data.
 - Can you justify your transformation decisions?
 - Do you understand trade-offs in data cleaning?
 
-### Quiz / Reflection (Mandatory)
+### Quiz
 
 👉 [https://forms.office.com/r/FbFmjpurgF](https://forms.office.com/r/FbFmjpurgF)
 
@@ -234,7 +234,7 @@ Insights are slow and compute costs are unclear.
 - Do you understand why warehouse size matters?
 - Can you explain compute decisions in business terms?
 
-### Quiz / Reflection (Mandatory)
+### Quiz
 
 👉 [https://forms.office.com/r/ZpJVcKDPuq](https://forms.office.com/r/ZpJVcKDPuq) <br />
 👉 [https://forms.office.com/r/sHzHJTmUr0](https://forms.office.com/r/sHzHJTmUr0)
@@ -266,7 +266,7 @@ The business needs to share analytics data with partners safely and at scale.
 - Do you understand why data sharing is better than exports?
 - Can you explain future grants clearly?
 
-### Quiz / Reflection (Mandatory)
+### Quiz
 
 👉 [https://forms.office.com/r/Bya7XWubPL](https://forms.office.com/r/Bya7XWubPL)
 

@@ -1,8 +1,8 @@
 # Business-Driven Snowflake ELT Practice Project
 
-**Platform:** Snowflake
-**Duration:** 5 Working Days (Monday–Friday)
-**Daily Time Commitment:** 30–60 minutes
+- **Platform:** Snowflake
+- **Duration:** 5 Working Days (Monday–Friday)
+- **Daily Time Commitment:** 30–60 minutes
 
 
 

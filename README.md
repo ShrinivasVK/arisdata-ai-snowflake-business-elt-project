@@ -236,7 +236,7 @@ Insights are slow and compute costs are unclear.
 
 ### Quiz / Reflection (Mandatory)
 
-👉 [https://forms.office.com/r/ZpJVcKDPuq](https://forms.office.com/r/ZpJVcKDPuq)
+👉 [https://forms.office.com/r/ZpJVcKDPuq](https://forms.office.com/r/ZpJVcKDPuq) <br />
 👉 [https://forms.office.com/r/sHzHJTmUr0](https://forms.office.com/r/sHzHJTmUr0)
 
 ## Day 5 – Data Sharing, Governance, and Delivery

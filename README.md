@@ -1,3 +1,124 @@
+# Business-Driven Snowflake ELT Practice Project
+
+**Platform:** Snowflake  
+**Target Audience:** Freshers (0–1 year experience)  
+**Duration:** 5 Working Days (Monday–Friday)  
+**Daily Time Commitment:** 30–60 minutes  
+
+---
+
+## Why Are We Building This Project?
+
+This project was created to help you **understand data engineering from a business perspective**, not just a technical one.
+
+Many early-career data engineers learn tools, syntax, and features but struggle to answer simple questions such as:
+
+- Why are we building this pipeline?
+- What business problem does this solve?
+- Who benefits from this data?
+- What happens if this data is wrong or insecure?
+
+This project is designed to **build that understanding step by step**.
+
+You are not expected to write perfect SQL.  
+You *are* expected to think about **why you are doing what you are doing**.
+
+---
+
+## The Required Mindset Shift
+
+You should move from thinking:
+
+> “I am creating tables, warehouses, and roles.”
+
+to thinking:
+
+> **“I am helping a business trust, use, and safely share its data.”**
+
+Every task in this project exists because of a **real business need**.
+
+---
+
+## Business Context and Scenario
+
+You are working as a data engineering team for a **mid-sized digital commerce company**.
+
+The company:
+
+- Has customers across multiple regions  
+- Processes online orders  
+- Tracks user behavior through application events  
+- Works with external partners who need analytics data  
+
+The company wants to become **data-driven**, but is facing several challenges.
+
+---
+
+## Business Problems We Are Trying to Solve
+
+### 1. Lack of Trust in Data
+
+- Different teams report different numbers  
+- Raw data is modified too early  
+- No clear data ownership  
+
+**Business impact:** Leadership does not trust reports.
+
+---
+
+### 2. Messy and Inconsistent Data
+
+- Missing values  
+- Duplicates  
+- Invalid records  
+- Inconsistent formats  
+
+**Business impact:** Analysts spend time cleaning data instead of analyzing it.
+
+---
+
+### 3. Poor Governance and Security
+
+- Too much access to sensitive data  
+- No clear access boundaries  
+- High compliance risk  
+
+**Business impact:** Analytics adoption is limited due to fear of misuse.
+
+---
+
+### 4. No Safe Way to Share Data
+
+- Partners ask for data extracts  
+- Manual exports are risky  
+- Sharing does not scale  
+
+**Business impact:** Collaboration is slow and unsafe.
+
+---
+
+## What This Project Delivers
+
+By the end of this project, you will have built:
+
+- A **governed ELT pipeline**  
+- A **trusted analytics layer**  
+- A **cost-aware compute setup**  
+- A **secure data share** for external consumers  
+
+At the same time, you will understand **why each piece exists**.
+
+---
+
+## How This Repository Is Used
+
+1. Clone or fork this repository  
+2. Create a personal branch using:
+
+   ```bash
+   feature/<your-name>
+
+
 
 ---
 
